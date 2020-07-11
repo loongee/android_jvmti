@@ -1,0 +1,3 @@
+include ':jvmti'
+include ':app'
+rootProject.name = "JVMTI"
