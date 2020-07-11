@@ -15,7 +15,7 @@ import java.nio.file.Paths;
 /**
  * created by ianlong on 2020/7/11
  */
-class JVMTILib {
+public class JVMTILib {
 
     private static String TAG = "JVMTILib";
     private static String LIB_NAME = "jvmti-agent";
